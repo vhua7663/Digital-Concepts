@@ -1,0 +1,35 @@
+SSD- 
+Description-  Flash memory with no moving parts
+Features- Faster read/write speeds, more reliable than HDDs, but typically more expensive per gigabyte.
+Usage- Laptops, desktop computers, and high-performance applications.
+
+HDD-
+Description- Magnetic storage with spinning disks
+Features- High capacity at a lower cost, but slower and more prone to mechanical failure compared to newer technologies
+Usage- Desktop computers, servers, and data backup solutions
+
+Flash Drive-
+Description- Portable storage that uses NAND flash memory
+Features- Compact, easy to use, and available in various capacities
+Usage- Data transfer, backups, and temporary file storage
+
+Optical Drives-
+Description- Physical discs that store data using laser technology
+Features- Suitable for long-term data storage but have lower capacities and slower speeds compared to newer methods
+Usage- Media storage, software distribution, and backups
+
+Cloud Drive-
+Description- Remote storage accessed via the internet
+Features- Accessible from anywhere, scalable, and often integrated with backup services
+Usage- Data backups, collaborative work, and accessing data on multiple devices
+
+External Hard Drive-
+Description- Portable HDDs or SSDs that connect via USB or other ports
+Features- Convenient for backing up large amounts of data and transferring files between computers
+Usage- Personal data backup, media libraries, and additional storage
+
+Raid System-
+Description- A set of HDDs or SSDs configured for redundancy or performance
+Features- Can offer increased speed, data protection, or both
+Usage- Servers, enterprise data solutions, and high-availability systems
+
